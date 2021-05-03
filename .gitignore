@@ -3,3 +3,5 @@
 *.sublime-project
 *.jar
 *.sh
+node_modules/
+.idea/
